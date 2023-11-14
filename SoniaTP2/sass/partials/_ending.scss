@@ -1,0 +1,25 @@
+
+.ending{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    text-align: center;
+
+    margin: 60px 0;
+
+    div h1{
+        font-size: 2rem;
+    }
+}
+
+.other-box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    ul li{
+        margin: 0 20px;
+        
+    }
+}
